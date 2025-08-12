@@ -1,0 +1,72 @@
+site_name: blog.chompski.uk
+site_url: https://blog.chompski.uk
+nav:
+  - Home: index.md
+  - Projects: projects
+  - Blog: blog
+  - Tags: tags.md
+  - Links: links.md
+  - About: about
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/lightbulb
+        name: Switch to light mode
+  features:
+    - navigation.indexes
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.prune
+    - navigation.top
+  favicon: img/favicon.ico
+markdown_extensions:
+  - meta
+  - toc
+  - extra
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.tasklist
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji 
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.keys
+  - admonition
+  - pymdownx.details
+  - pymdownx.tilde
+extra_javascript:
+  - js/mathjax.js
+  - js/tex-mml-chtml.js
+plugins:
+  - search:
+      lang:
+        - en
+        - hu
+  - blog:
+      draft: false
+      draft_on_serve: false
+      draft_if_future_date: true
+  - blog:
+      blog_dir: projects
+      draft: false
+      draft_on_serve: false
+      draft_if_future_date: true
+  - social
+  - tags:
+      tags_file: tags.md
