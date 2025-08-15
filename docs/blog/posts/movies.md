@@ -17,7 +17,7 @@ Might contain mild spoliers.
 ## The list
 
 - [x] 1. **The Shawshank Redemption**: $9 \over 10$ poor anus
-- [ ] 2. **The Godfather**
+- [x] 2. **The Godfather** $8 \over 10$ grandpa fell asleep in the garden
 - [ ] 3. **The Dark Knight**
 - [ ] 4. **The Godfather Part II**
 - [ ] 5. **12 Angry Men**
