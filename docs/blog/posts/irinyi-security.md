@@ -6,6 +6,7 @@ tags:
   - vm
   - security
   - szte
+comments: true
 draft: true
 ---
 

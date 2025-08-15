@@ -6,6 +6,7 @@ tags:
   - k8s
   - k3s
   - pi
+comments: true
 ---
 
 <!-- more -->

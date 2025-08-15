@@ -1,6 +1,7 @@
 ---
 date:
   created: 2024-12-06
+comments: true
 ---
 
 # Idk how to blog, we will see

@@ -4,6 +4,7 @@ date:
 tags:
   - movie
   - film
+comments: true
 ---
 
 # The movie project
