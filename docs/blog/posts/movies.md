@@ -46,13 +46,13 @@ Might contain mild spoliers.
 - [ ] 27. **Life Is Beautiful**
 - [ ] 28. **Terminator 2: Judgment Day**
 - [x] 29. **Star Wars: Episode IV - A New Hope**: $6.5 \over 10$ star wars
-- [x] 30. **Back to the Future**: $7.5 \over 10$ DeLorean goes brr
-- [ ] 31. **Spirited Away**
+- [x] 30. **Back to the Future**: $6.5 \over 10$ DeLorean goes brr
+- [x] 31. **Spirited Away** $8 \over 10$ Soot spirit gang, rise up!
 - [ ] 32. **The Pianist**
 - [x] 33. **Parasite**: $8 \over 10$ .... --- .-.. .--. / --
 - [ ] 34. **Gladiator**
 - [ ] 35. **Psycho**
-- [x] 36. **The Lion King**: $7 \over 10$ traumatize those kids
+- [x] 36. **The Lion King**: $6 \over 10$ traumatize those kids
 - [ ] 37. **The Departed**
 - [ ] 38. **Grave of the Fireflies**
 - [ ] 39. **Whiplash**
