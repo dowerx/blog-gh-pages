@@ -23,8 +23,8 @@ Might contain mild spoliers.
 - [ ] 4. **The Godfather Part II**
 - [ ] 5. **12 Angry Men**
 - [ ] 6. **The Lord of the Rings: The Return of the King**
-- [x] 7. **Schindler's List**: $7.5 \over 10$ very touching
-- [ ] 8. **Pulp Fiction**
+- [x] 7. **Schindler's List**: $6 \over 10$ very touching
+- [x] 8. **Pulp Fiction** $7.8 \over 10$ guns, sex, drugs, booze and **feet**
 - [ ] 9. **The Lord of the Rings: The Fellowship of the Ring**
 - [ ] 10. **The Good, the Bad and the Ugly**
 - [ ] 11. **Forrest Gump**
@@ -32,7 +32,7 @@ Might contain mild spoliers.
 - [x] 13. **Fight Club**: $10 \over 10$ look out he's crazy, good soundtrack, every minute a new suprise
 - [ ] 14. **Inception**
 - [ ] 15. **Star Wars: Episode V - The Empire Strikes Back**
-- [x] 16. **The Matrix**: $8.5 \over 10$ man takes pills from a stranger and goes on a wild trip
+- [x] 16. **The Matrix**: $8 \over 10$ man takes pills from a stranger and goes on a wild trip
 - [ ] 17. **Goodfellas**
 - [ ] 18. **One Flew Over the Cuckoo's Nest**
 - [ ] 19. **Interstellar**
@@ -63,7 +63,7 @@ Might contain mild spoliers.
 - [ ] 44. **Harakiri**
 - [ ] 45. **Casablanca**
 - [ ] 46. **The Usual Suspects**
-- [x] 47. **The Intouchables**: $8.5 \over 10$ no arms no chocolate
+- [x] 47. **The Intouchables**: $8 \over 10$ no arms no chocolate
 - [ ] 48. **Cinema Paradiso**
 - [ ] 49. **Modern Times**
 - [x] 50. **Dune: Part Two**: $9 \over 10$ illuminati at its finest, lisan al gaib
