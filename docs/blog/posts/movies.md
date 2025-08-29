@@ -77,3 +77,4 @@ Might contain mild spoliers.
 - [x] 58. **WALL·E**: $9 \over 10$ my room looks like that planet sometimes
 - [ ] 59. **Raiders of the Lost Ark**
 - [x] 60. **The Lives of Others**: $8 \over 10$ spying is not cool man
+- [x] 130. **Hamilton** $9 \over 10$ [no one else was in the room, so i'm told](https://youtu.be/KVcptglGlEY?si=4xemIzz9PP7RVOic)
