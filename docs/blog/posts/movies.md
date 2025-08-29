@@ -79,19 +79,19 @@ Might contain mild spoliers.
 - [ ] 60. **Avengers: Infinity War**
 - [x] 61. **The Lives of Others**: $8 \over 10$ spying is not cool man
 - [ ] 62. **Sunset Boulevard**
-- [ ] 63. **Spider-Man: Into the Spider-Verse**
+- [x] 63. **Spider-Man: Into the Spider-Verse**
 - [ ] 64. **Witness for the Prosecution**
 - [ ] 65. **Paths of Glory**
 - [ ] 66. **The Shining**
 - [ ] 67. **The Great Dictator**
-- [ ] 68. **Inglourious Basterds**
+- [x] 68. **Inglourious Basterds**
 - [ ] 69. **12th Fail**
 - [ ] 70. **Aliens**
 - [ ] 71. **The Dark Knight Rises**
 - [ ] 72. **Coco**
-- [ ] 73. **Amadeus**
-- [ ] 74. **Avengers: Endgame**
-- [ ] 75. **Toy Story**
+- [x] 73. **Amadeus**
+- [x] 74. **Avengers: Endgame**
+- [x] 75. **Toy Story**
 - [ ] 76. **Good Will Hunting**
 - [ ] 77. **High and Low**
 - [ ] 78. **Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb**
@@ -109,7 +109,7 @@ Might contain mild spoliers.
 - [ ] 90. **Come and See**
 - [ ] 91. **Requiem for a Dream**
 - [ ] 92. **Star Wars: Episode VI - Return of the Jedi**
-- [ ] 93. **Toy Story 3**
+- [x] 93. **Toy Story 3**
 - [ ] 94. **The Hunt**
 - [ ] 95. **Ikiru**
 - [ ] 96. **Eternal Sunshine of the Spotless Mind**
@@ -136,15 +136,15 @@ Might contain mild spoliers.
 - [ ] 117. **The Sting**
 - [ ] 118. **A Clockwork Orange**
 - [ ] 119. **Metropolis**
-- [ ] 120. **Oppenheimer**
+- [x] 120. **Oppenheimer**
 - [ ] 121. **Snatch**
-- [ ] 122. **1917**
+- [x] 122. **1917**
 - [ ] 123. **L.A. Confidential**
 - [ ] 124. **Bicycle Thieves**
 - [ ] 125. **Downfall**
 - [ ] 126. **Dangal**
 - [ ] 127. **The Chaos Class Failed the Class**
-- [ ] 128. **The Wolf of Wall Street**
+- [x] 128. **The Wolf of Wall Street**
 - [ ] 129. **Green Book**
 - [x] 130. **Hamilton** $9 \over 10$ [no one else was in the room, so i'm told](https://youtu.be/KVcptglGlEY?si=4xemIzz9PP7RVOic)- [ ] 131. **The Truman Show**
 - [ ] 132. **Taxi Driver**
@@ -153,7 +153,7 @@ Might contain mild spoliers.
 - [ ] 135. **Judgment at Nuremberg**
 - [ ] 136. **Shutter Island**
 - [ ] 137. **Some Like It Hot**
-- [ ] 138. **Jurassic Park**
+- [x] 138. **Jurassic Park**
 - [ ] 139. **The Kid**
 - [ ] 140. **The Father**
 - [ ] 141. **All About Eve**
@@ -171,11 +171,11 @@ Might contain mild spoliers.
 - [ ] 153. **Prisoners**
 - [ ] 154. **The Treasure of the Sierra Madre**
 - [ ] 155. **Yojimbo**
-- [ ] 156. **Finding Nemo**
+- [x] 156. **Finding Nemo**
 - [ ] 157. **Howl's Moving Castle**
 - [ ] 158. **The Best of Youth**
 - [ ] 159. **The Great Escape**
-- [ ] 160. **Monty Python and the Holy Grail**
+- [x] 160. **Monty Python and the Holy Grail**
 - [ ] 161. **The Elephant Man**
 - [ ] 162. **Klaus**
 - [ ] 163. **Dial M for Murder**
@@ -185,13 +185,13 @@ Might contain mild spoliers.
 - [ ] 167. **Lock, Stock and Two Smoking Barrels**
 - [ ] 168. **V for Vendetta**
 - [ ] 169. **Rashomon**
-- [ ] 170. **Inside Out**
+- [x] 170. **Inside Out**
 - [ ] 171. **Three Billboards Outside Ebbing, Missouri**
-- [ ] 172. **Catch Me If You Can**
+- [x] 172. **Catch Me If You Can**
 - [ ] 173. **Trainspotting**
 - [ ] 174. **The Bridge on the River Kwai**
 - [ ] 175. **Raging Bull**
-- [ ] 176. **Harry Potter and the Deathly Hallows: Part 2**
+- [x] 176. **Harry Potter and the Deathly Hallows: Part 2**
 - [ ] 177. **Fargo**
 - [ ] 178. **The Wild Robot**
 - [ ] 179. **Warrior**
@@ -207,13 +207,13 @@ Might contain mild spoliers.
 - [ ] 189. **The Grand Budapest Hotel**
 - [ ] 190. **12 Years a Slave**
 - [ ] 191. **Before Sunrise**
-- [ ] 192. **Spider-Man: No Way Home**
-- [ ] 193. **Blade Runner**
+- [x] 192. **Spider-Man: No Way Home**
+- [x] 193. **Blade Runner**
 - [ ] 194. **Memories of Murder**
 - [ ] 195. **Gone Girl**
-- [ ] 196. **Ratatouille**
-- [ ] 197. **How to Train Your Dragon**
-- [ ] 198. **Monsters, Inc.**
+- [x] 196. **Ratatouille**
+- [x] 197. **How to Train Your Dragon**
+- [x] 198. **Monsters, Inc.**
 - [ ] 199. **In the Name of the Father**
 - [ ] 200. **Jaws**
 - [ ] 201. **Wild Tales**
@@ -232,7 +232,7 @@ Might contain mild spoliers.
 - [ ] 214. **Tokyo Story**
 - [ ] 215. **The Third Man**
 - [ ] 216. **Spotlight**
-- [ ] 217. **Pirates of the Caribbean: The Curse of the Black Pearl**
+- [x] 217. **Pirates of the Caribbean: The Curse of the Black Pearl**
 - [ ] 218. **Maharaja**
 - [ ] 219. **The Terminator**
 - [ ] 220. **The Big Lebowski**
@@ -246,14 +246,14 @@ Might contain mild spoliers.
 - [ ] 228. **Before Sunset**
 - [ ] 229. **The Sound of Music**
 - [ ] 230. **The Exorcist**
-- [ ] 231. **The Incredibles**
+- [x] 231. **The Incredibles**
 - [ ] 232. **Hachi: A Dog's Tale**
 - [ ] 233. **Rush**
-- [ ] 234. **The Wizard of Oz**
+- [x] 234. **The Wizard of Oz**
 - [ ] 235. **A Silent Voice: The Movie**
 - [ ] 236. **The Passion of Joan of Arc**
 - [ ] 237. **Stand by Me**
-- [ ] 238. **The Iron Giant**
+- [x] 238. **The Iron Giant**
 - [ ] 239. **My Father and My Son**
 - [ ] 240. **Network**
 - [ ] 241. **The Handmaiden**
@@ -263,6 +263,6 @@ Might contain mild spoliers.
 - [ ] 245. **Into the Wild**
 - [ ] 246. **The Help**
 - [ ] 247. **Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train**
-- [ ] 248. **Groundhog Day**
+- [x] 248. **Groundhog Day**
 - [ ] 249. **Drishyam**
 - [ ] 250. **Gangs of Wasseypur**
