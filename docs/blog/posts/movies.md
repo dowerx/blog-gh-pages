@@ -34,47 +34,235 @@ Might contain mild spoliers.
 - [ ] 15. **Star Wars: Episode V - The Empire Strikes Back**
 - [x] 16. **The Matrix**: $8 \over 10$ man takes pills from a stranger and goes on a wild trip
 - [ ] 17. **Goodfellas**
-- [ ] 18. **One Flew Over the Cuckoo's Nest**
-- [ ] 19. **Interstellar**
+- [ ] 18. **Interstellar**
+- [ ] 19. **One Flew Over the Cuckoo's Nest**
 - [ ] 20. **Se7en**
 - [ ] 21. **It's a Wonderful Life**
-- [ ] 22. **Seven Samurai**
-- [ ] 23. **The Silence of the Lambs**
+- [ ] 22. **The Silence of the Lambs**
+- [ ] 23. **Seven Samurai**
 - [ ] 24. **Saving Private Ryan**
-- [ ] 25. **City of God**
-- [ ] 26. **The Green Mile**
+- [ ] 25. **The Green Mile**
+- [ ] 26. **City of God**
 - [ ] 27. **Life Is Beautiful**
 - [ ] 28. **Terminator 2: Judgment Day**
 - [x] 29. **Star Wars: Episode IV - A New Hope**: $6.5 \over 10$ star wars
 - [x] 30. **Back to the Future**: $6.5 \over 10$ DeLorean goes brr
 - [x] 31. **Spirited Away** $8 \over 10$ Soot spirit gang, rise up!
 - [ ] 32. **The Pianist**
-- [x] 33. **Parasite**: $8 \over 10$ .... --- .-.. .--. / --
-- [ ] 34. **Gladiator**
+- [ ] 33. **Gladiator**
+- [x] 34. **Parasite**: $8 \over 10$ .... --- .-.. .--. / --
 - [ ] 35. **Psycho**
 - [x] 36. **The Lion King**: $6 \over 10$ traumatize those kids
-- [ ] 37. **The Departed**
-- [ ] 38. **Grave of the Fireflies**
+- [ ] 37. **Grave of the Fireflies**
+- [ ] 38. **The Departed**
 - [ ] 39. **Whiplash**
-- [ ] 40. **Spider-Man: Across the Spider-Verse**
-- [ ] 41. **American History X**
-- [ ] 42. **The Prestige**
+- [ ] 40. **Harakiri**
+- [ ] 41. **The Prestige**
+- [ ] 42. **American History X**
 - [x] 43. **Léon: The Professional**: $6.3 \over 10$ Mathilda, please clean yourself.
-- [ ] 44. **Harakiri**
+- [ ] 44. **Spider-Man: Across the Spider-Verse**
 - [ ] 45. **Casablanca**
-- [ ] 46. **The Usual Suspects**
-- [x] 47. **The Intouchables**: $8 \over 10$ no arms no chocolate
-- [ ] 48. **Cinema Paradiso**
-- [ ] 49. **Modern Times**
-- [x] 50. **Dune: Part Two**: $9 \over 10$ illuminati at its finest, lisan al gaib
-- [x] 51. **Alien**: $9 \over 10$ lizards and robots in space harassing people
-- [ ] 52. **Rear Window**
+- [ ] 46. **Cinema Paradiso**
+- [ ] 47. **The Usual Suspects**
+- [x] 48. **The Intouchables**: $8 \over 10$ no arms no chocolate
+- [x] 49. **Alien**: $9 \over 10$ lizards and robots in space harassing people
+- [ ] 50. **Modern Times**
+- [ ] 51. **Rear Window**
+- [x] 52. **Django Unchained**: $9 \over 10$ cool dentist
 - [ ] 53. **Once Upon a Time in the West**
-- [x] 54. **Django Unchained**: $9 \over 10$ cool dentist
-- [ ] 55. **City Lights**
-- [ ] 56. **Apocalypse Now**
+- [ ] 54. **City Lights**
+- [ ] 55. **Apocalypse Now**
+- [x] 56. **WALL·E**: $9 \over 10$ my room looks like that planet sometimes
 - [ ] 57. **Memento**
-- [x] 58. **WALL·E**: $9 \over 10$ my room looks like that planet sometimes
+- [x] 58. **Dune: Part Two**: $9 \over 10$ illuminati at its finest, lisan al gaib
 - [ ] 59. **Raiders of the Lost Ark**
-- [x] 60. **The Lives of Others**: $8 \over 10$ spying is not cool man
-- [x] 130. **Hamilton** $9 \over 10$ [no one else was in the room, so i'm told](https://youtu.be/KVcptglGlEY?si=4xemIzz9PP7RVOic)
+- [ ] 60. **Avengers: Infinity War**
+- [x] 61. **The Lives of Others**: $8 \over 10$ spying is not cool man
+- [ ] 62. **Sunset Boulevard**
+- [ ] 63. **Spider-Man: Into the Spider-Verse**
+- [ ] 64. **Witness for the Prosecution**
+- [ ] 65. **Paths of Glory**
+- [ ] 66. **The Shining**
+- [ ] 67. **The Great Dictator**
+- [ ] 68. **Inglourious Basterds**
+- [ ] 69. **12th Fail**
+- [ ] 70. **Aliens**
+- [ ] 71. **The Dark Knight Rises**
+- [ ] 72. **Coco**
+- [ ] 73. **Amadeus**
+- [ ] 74. **Avengers: Endgame**
+- [ ] 75. **Toy Story**
+- [ ] 76. **Good Will Hunting**
+- [ ] 77. **High and Low**
+- [ ] 78. **Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb**
+- [ ] 79. **Oldboy**
+- [ ] 80. **Das Boot**
+- [ ] 81. **Braveheart**
+- [ ] 82. **Your Name.**
+- [ ] 83. **Princess Mononoke**
+- [ ] 84. **American Beauty**
+- [ ] 85. **3 Idiots**
+- [ ] 86. **Joker**
+- [ ] 87. **Capernaum**
+- [ ] 88. **Once Upon a Time in America**
+- [ ] 89. **Singin' in the Rain**
+- [ ] 90. **Come and See**
+- [ ] 91. **Requiem for a Dream**
+- [ ] 92. **Star Wars: Episode VI - Return of the Jedi**
+- [ ] 93. **Toy Story 3**
+- [ ] 94. **The Hunt**
+- [ ] 95. **Ikiru**
+- [ ] 96. **Eternal Sunshine of the Spotless Mind**
+- [ ] 97. **Incendies**
+- [ ] 98. **The Apartment**
+- [ ] 99. **Lawrence of Arabia**
+- [ ] 100. **2001: A Space Odyssey**
+- [ ] 101. **Reservoir Dogs**
+- [ ] 102. **Scarface**
+- [ ] 103. **Heat**
+- [ ] 104. **Double Indemnity**
+- [ ] 105. **North by Northwest**
+- [ ] 106. **Up**
+- [ ] 107. **M**
+- [ ] 108. **Citizen Kane**
+- [ ] 109. **Full Metal Jacket**
+- [ ] 110. **Vertigo**
+- [ ] 111. **Amélie**
+- [ ] 112. **Like Stars on Earth**
+- [ ] 113. **A Separation**
+- [ ] 114. **To Kill a Mockingbird**
+- [ ] 115. **Die Hard**
+- [ ] 116. **Indiana Jones and the Last Crusade**
+- [ ] 117. **The Sting**
+- [ ] 118. **A Clockwork Orange**
+- [ ] 119. **Metropolis**
+- [ ] 120. **Oppenheimer**
+- [ ] 121. **Snatch**
+- [ ] 122. **1917**
+- [ ] 123. **L.A. Confidential**
+- [ ] 124. **Bicycle Thieves**
+- [ ] 125. **Downfall**
+- [ ] 126. **Dangal**
+- [ ] 127. **The Chaos Class Failed the Class**
+- [ ] 128. **The Wolf of Wall Street**
+- [ ] 129. **Green Book**
+- [x] 130. **Hamilton** $9 \over 10$ [no one else was in the room, so i'm told](https://youtu.be/KVcptglGlEY?si=4xemIzz9PP7RVOic)- [ ] 131. **The Truman Show**
+- [ ] 132. **Taxi Driver**
+- [ ] 133. **Batman Begins**
+- [ ] 134. **For a Few Dollars More**
+- [ ] 135. **Judgment at Nuremberg**
+- [ ] 136. **Shutter Island**
+- [ ] 137. **Some Like It Hot**
+- [ ] 138. **Jurassic Park**
+- [ ] 139. **The Kid**
+- [ ] 140. **The Father**
+- [ ] 141. **All About Eve**
+- [ ] 142. **There Will Be Blood**
+- [ ] 143. **The Sixth Sense**
+- [ ] 144. **Ran**
+- [ ] 145. **Casino**
+- [ ] 146. **Top Gun: Maverick**
+- [ ] 147. **No Country for Old Men**
+- [ ] 148. **The Thing**
+- [ ] 149. **Unforgiven**
+- [ ] 150. **Pan's Labyrinth**
+- [ ] 151. **Kill Bill: Vol. 1**
+- [ ] 152. **A Beautiful Mind**
+- [ ] 153. **Prisoners**
+- [ ] 154. **The Treasure of the Sierra Madre**
+- [ ] 155. **Yojimbo**
+- [ ] 156. **Finding Nemo**
+- [ ] 157. **Howl's Moving Castle**
+- [ ] 158. **The Best of Youth**
+- [ ] 159. **The Great Escape**
+- [ ] 160. **Monty Python and the Holy Grail**
+- [ ] 161. **The Elephant Man**
+- [ ] 162. **Klaus**
+- [ ] 163. **Dial M for Murder**
+- [ ] 164. **Gone with the Wind**
+- [ ] 165. **The Secret in Their Eyes**
+- [ ] 166. **Chinatown**
+- [ ] 167. **Lock, Stock and Two Smoking Barrels**
+- [ ] 168. **V for Vendetta**
+- [ ] 169. **Rashomon**
+- [ ] 170. **Inside Out**
+- [ ] 171. **Three Billboards Outside Ebbing, Missouri**
+- [ ] 172. **Catch Me If You Can**
+- [ ] 173. **Trainspotting**
+- [ ] 174. **The Bridge on the River Kwai**
+- [ ] 175. **Raging Bull**
+- [ ] 176. **Harry Potter and the Deathly Hallows: Part 2**
+- [ ] 177. **Fargo**
+- [ ] 178. **The Wild Robot**
+- [ ] 179. **Warrior**
+- [ ] 180. **Million Dollar Baby**
+- [ ] 181. **Gran Torino**
+- [ ] 182. **Dead Poets Society**
+- [ ] 183. **Ben-Hur**
+- [ ] 184. **Mad Max: Fury Road**
+- [ ] 185. **Barry Lyndon**
+- [ ] 186. **My Neighbor Totoro**
+- [ ] 187. **Children of Heaven**
+- [ ] 188. **Hacksaw Ridge**
+- [ ] 189. **The Grand Budapest Hotel**
+- [ ] 190. **12 Years a Slave**
+- [ ] 191. **Before Sunrise**
+- [ ] 192. **Spider-Man: No Way Home**
+- [ ] 193. **Blade Runner**
+- [ ] 194. **Memories of Murder**
+- [ ] 195. **Gone Girl**
+- [ ] 196. **Ratatouille**
+- [ ] 197. **How to Train Your Dragon**
+- [ ] 198. **Monsters, Inc.**
+- [ ] 199. **In the Name of the Father**
+- [ ] 200. **Jaws**
+- [ ] 201. **Wild Tales**
+- [ ] 202. **The Gold Rush**
+- [ ] 203. **Ford v Ferrari**
+- [ ] 204. **Sherlock Jr.**
+- [ ] 205. **Mary and Max**
+- [ ] 206. **The Deer Hunter**
+- [ ] 207. **The Wages of Fear**
+- [ ] 208. **The General**
+- [ ] 209. **Mr. Smith Goes to Washington**
+- [ ] 210. **On the Waterfront**
+- [ ] 211. **Logan**
+- [ ] 212. **Rocky**
+- [ ] 213. **Wild Strawberries**
+- [ ] 214. **Tokyo Story**
+- [ ] 215. **The Third Man**
+- [ ] 216. **Spotlight**
+- [ ] 217. **Pirates of the Caribbean: The Curse of the Black Pearl**
+- [ ] 218. **Maharaja**
+- [ ] 219. **The Terminator**
+- [ ] 220. **The Big Lebowski**
+- [ ] 221. **La haine**
+- [ ] 222. **The Seventh Seal**
+- [ ] 223. **Jai Bhim**
+- [ ] 224. **Room**
+- [ ] 225. **Hotel Rwanda**
+- [ ] 226. **Platoon**
+- [ ] 227. **The Best Years of Our Lives**
+- [ ] 228. **Before Sunset**
+- [ ] 229. **The Sound of Music**
+- [ ] 230. **The Exorcist**
+- [ ] 231. **The Incredibles**
+- [ ] 232. **Hachi: A Dog's Tale**
+- [ ] 233. **Rush**
+- [ ] 234. **The Wizard of Oz**
+- [ ] 235. **A Silent Voice: The Movie**
+- [ ] 236. **The Passion of Joan of Arc**
+- [ ] 237. **Stand by Me**
+- [ ] 238. **The Iron Giant**
+- [ ] 239. **My Father and My Son**
+- [ ] 240. **Network**
+- [ ] 241. **The Handmaiden**
+- [ ] 242. **The Battle of Algiers**
+- [ ] 243. **The Grapes of Wrath**
+- [ ] 244. **To Be or Not to Be**
+- [ ] 245. **Into the Wild**
+- [ ] 246. **The Help**
+- [ ] 247. **Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train**
+- [ ] 248. **Groundhog Day**
+- [ ] 249. **Drishyam**
+- [ ] 250. **Gangs of Wasseypur**
