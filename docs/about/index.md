@@ -7,4 +7,4 @@ My name is László BENEDEK. I'm studing IT Engineering at [SZTE](https://u-szeg
 My alias on most platforms is *DowerX*.
 
 [GitHub](https://github.com/dowerx),
-[lacbenedek@gmail.com](email:lacbenedek@gmail.com)
+[dowerx+blog@chompski.uk](email:dowerx+blog@chompski.uk)
